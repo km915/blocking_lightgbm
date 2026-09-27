@@ -1,0 +1,7 @@
+# Install only once the core pipeline (requirements.txt) is working and
+# submitted at least once. These are for the stretch-goal improvements.
+xgboost
+catboost
+sentence-transformers
+torch
+faiss-cpu

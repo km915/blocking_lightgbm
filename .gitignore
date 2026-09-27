@@ -1,0 +1,14 @@
+# Ignore a specific file
+secret.py
+
+# Ignore a folder
+data/
+
+# Ignore all CSV files
+*.csv
+
+# Ignore Python cache
+__pycache__/
+
+#ignore artifacts folder
+artifacts/
